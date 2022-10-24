@@ -61,8 +61,25 @@ run calculateFISHRMSDLoop.sh
 
 Or run evaluate_with_FISH.ipynb
 
+## the real system we use for running the scripts
+cpu: 95
+cpu cores: 24*95
+mem: 503 GB
 
+## the parameters for other tools that can run at high resolution Hi-C contact matrix
 
+1)miniMDS：download source code from https://github.com/seqcode/miniMDS
+
+By default, full MDS is used: 
+
+python minimds.py GM12878_combined_22_5kb.bed
+To use partitioned MDS:
+
+python minimds.py --partitioned GM12878_combined_22_5kb.bed
+
+2)Hierarchical3DGenome：download source code from https://github.com/BDM-Lab/Hierarchical3DGenome
+
+java -jar HierarchicalModeller.jar chr_id resolution observed_contact_data normalized_contact_data domain_file output_folder
 
 
 
