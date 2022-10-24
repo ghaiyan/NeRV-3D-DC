@@ -1,0 +1,10 @@
+/home/ghaiyan/project/3d/chrtest/_NeRV_test2000_0.9	0.3	0.15764273551881539	0.988	0.983
+/home/ghaiyan/project/3d/chrtest/NeRV	0.3	2.856401421583331e-05	1.0	1.0
+/home/ghaiyan/project/3d/chrtest/LargeVis	0.3	0.6819953668598125	0.45	0.415
+/home/ghaiyan/project/3d/chrtest/3DMax	0.3	0.4747787052691268	0.786	0.759
+/home/ghaiyan/project/3d/chrtest/ShNeigh1	0.3	0.01087825330488902	1.0	1.0
+/home/ghaiyan/project/3d/chrtest/miniMDS	0.3	0.14597922344939432	0.968	0.958
+/home/ghaiyan/project/3d/chrtest/ShRec3D	0.3	9.605373628101232e-07	1.0	1.0
+/home/ghaiyan/project/3d/chrtest/EVR	0.3	0.09019365787049087	0.989	0.983
+/home/ghaiyan/project/3d/chrtest/LorDG	0.3	0.018005074854539012	1.0	0.999
+/home/ghaiyan/project/NeRV-3D/chrtest/GEM	0.3	0.5456290101946276	0.615	0.591

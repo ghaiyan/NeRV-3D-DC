@@ -1,0 +1,16 @@
+'NeRV-3D','LargeVis','3DMax','miniMDS','GEM','EVR'
+/home/ghaiyan/project/3d/chrtest/_NeRV_chr19_50000_0.4	0.3	0.22	0.866	0.813
+/home/ghaiyan/project/3d/chrtest/test.hic	0.4	0.13	0.887	0.822
+/home/ghaiyan/project/3d/chrtest/NeRV	0.3	0.15	0.686	0.771
+/home/ghaiyan/project/3d/chrtest/test.hic	0.4	0.09	0.685	0.768
+/home/ghaiyan/project/3d/chrtest/LargeVis	0.3	0.32	0.257	0.352
+/home/ghaiyan/project/3d/chrtest/test.hic	0.4	0.21	0.263	0.366
+/home/ghaiyan/project/3d/chrtest/3DMax	0.3	0.18	0.414	0.578
+/home/ghaiyan/project/3d/chrtest/test.hic	0.4	0.13	0.401	0.557
+/home/ghaiyan/project/3d/chrtest/miniMDS	0.3	0.13	0.71	0.84
+/home/ghaiyan/project/3d/chrtest/test.hic	0.4	0.09	0.684	0.807
+/home/ghaiyan/project/3d/chrtest/GEM	0.3	0.15	0.594	0.721
+/home/ghaiyan/project/3d/chrtest/test.hic	0.4	0.11	0.581	0.719
+/home/ghaiyan/project/3d/chrtest/EVR	0.3	0.6	-0.599	0.085
+/home/ghaiyan/project/3d/chrtest/test.hic	0.4	0.42	-0.583	0.06
+

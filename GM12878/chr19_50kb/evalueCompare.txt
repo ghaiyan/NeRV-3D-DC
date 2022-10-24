@@ -1,0 +1,12 @@
+GM12878/chr19_50000miniMDS	0.3	0.09	0.684	0.807
+/data1/ghy_data/GM12878/chr19_50000_NeRV	0.3	0.2	0.868	0.84
+/data1/ghy_data/GM12878/chr19_50000_3dmax	0.3	0.13	0.401	0.557
+/data1/ghy_data/GM12878/chr19_50000_LargeVis	0.3	0.21	0.263	0.366
+/data1/ghy_data/GM12878/chr19_50000_GEM	0.3	0.11	0.581	0.719
+
+/data1/ghy_data/GM12878/chr19_50000_GEM	0.6	0.12	0.474	0.654
+/data1/ghy_data/GM12878/chr19_50000_miniMDS	0.6	0.08	0.581	0.683
+/data1/ghy_data/GM12878/chr19_50000_NeRV 0.6	0.05	0.879	0.74
+/data1/ghy_data/GM12878/chr19_50000_LargeVis	0.6	0.08	0.224	0.34
+/data1/ghy_data/GM12878/chr19_50000_3DMax	0.6	0.11	0.346	0.447
+/data1/ghy_data/GM12878/chr19_50000.hic	0.6	0.11	0.346	0.447
