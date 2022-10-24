@@ -73,6 +73,7 @@ mem: 503 GB
 By default, full MDS is used: 
 
 python minimds.py GM12878_combined_22_5kb.bed
+
 To use partitioned MDS:
 
 python minimds.py --partitioned GM12878_combined_22_5kb.bed
